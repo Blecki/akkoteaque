@@ -1,0 +1,40 @@
+             
+			 LEGEND
+
+J - The pier, landing site          Y - Outside the inn
+N - Stairway through the cliffs	    P - The path to the garden
+C - A Crossing of paths	            G - The garden
+B - The Beach                       K - The kitchen
+O - The Cave                        S - The sitting room
+CE - Chapel Exterior                U - Upstairs hall
+CI - Chapel Interior                BR - Bay room
+CO - Chapel Office                  AR - Balcony room
+GY - Graveyard	                    LA - Top of the lighthouse
+LB - Bottom of the lighthouse       LB - Balcony at the top of the lighthouse
+LU - Utility room in lighthouse     NL - The ledge outside the lighthouse
+RL - The ledge outside the cave     EA - The electrical alcove
+CL - The cellar                     CS - The Captain's shack
+
+^ and v denote connections going up or down. A connects to A, B to B, etc.
+
+           MAIN LEVEL                         ONE LEVEL UP     ONE LEVEL DOWN
+   
+                  vD            vC               BR                 
+          G------K      LU-----NL                |                   ^D
+          |      |      |      |                 |vB                CL
+          |      |^B    |^A    |             AR--U
+          |      S------LB     EA
+          |      |                           
+          |      |              ^C            vA
+          P------Y      O------RL            LA---LB
+                 |      |
+                 |      |
+   J------N------C------B              Some locations only reachable by solving 
+          |      |                     certain puzzles are not shown on this
+          CS     |                     map. Likewise, some connections. Do not 
+                 |                     assume that this map is absolutely
+          CO     |                     correct.
+          |      |
+          CI-----CE
+                 |
+                 GY
